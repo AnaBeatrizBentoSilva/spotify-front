@@ -21,8 +21,8 @@ Criar o Front-End de uma página de navegação inspirada no Spotify, utilizando
 ├── assets/
 │   ├── icons/ 
 │   └── playlist/
+├── README.md
 ├── index.html
 ├── reset.css
 ├── script.js
-├── styles.css
-└── README.md
+└── styles.css
