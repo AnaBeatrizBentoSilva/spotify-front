@@ -18,11 +18,18 @@ Criar o Front-End de uma página de navegação inspirada no Spotify, utilizando
 
 ```plaintext
 .
-├── assets/
-│   ├── icons/ 
-│   └── playlist/
+├── api-artists/
+│   └── artists.json
+├── src/
+│   ├── assets/
+│   │   ├── icons/ 
+│   │   └── playlist/
+│   └── styles/
+│       ├── main-content.css
+│       ├── media-queries.css
+│       ├── reset.css
+│       ├── sidebar-footer.css 
+│       └── vars.css
 ├── README.md
 ├── index.html
-├── reset.css
-├── script.js
-└── styles.css
+└── script.js
