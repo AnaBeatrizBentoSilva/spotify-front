@@ -7,7 +7,7 @@ Criar o Front-End de uma página de navegação inspirada no Spotify, utilizando
 - HTML: Estruturação da página.
 - CSS: Estilização avançada.
 - JavaScript: Interatividade e dinamicidade.
-- Frameworks modernos(React e Angular) para otimizar o desenvolvimento.
+- Framework moderno(React) para otimizar o desenvolvimento.
 
 ## 🔒 Conceitos Abordados
 - Criação de layouts modernos.
